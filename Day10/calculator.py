@@ -49,3 +49,6 @@ def calculate():
 
 
 calculate()
+
+
+# write a function that adds to items

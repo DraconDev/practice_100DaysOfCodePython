@@ -62,5 +62,3 @@ game()
 
 
 screen.exitonclick()
-# screen.exitonclick()
-# screen.exitonclick()

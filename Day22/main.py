@@ -94,4 +94,4 @@ game()
 # screen.screen_off()
 
 # Screen off
-screen.exitonclick()
+

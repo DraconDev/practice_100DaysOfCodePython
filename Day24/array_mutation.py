@@ -4,7 +4,7 @@ test = ['a\n', 'b\n', 'c\n', 'd\n', 'e\n', 'f\n', 'g\n', 'h\n', 'i\n', 'l']
 
 for name in test:
     name = name.strip("\n")
-
+# 
 # Mutates
 
 test = [i.strip('\n') for i in test]

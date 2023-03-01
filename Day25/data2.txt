@@ -1,0 +1,4 @@
+            max_speed  shield
+cobra               1       2
+viper               4       5
+sidewinder          7       8

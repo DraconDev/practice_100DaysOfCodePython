@@ -1,0 +1,7 @@
+{
+	"cSpell.words": ["prettytable"],
+	"python.analysis.extraPaths": [
+		"./Day16/oop-coffee-machine-start",
+		"./Day15"
+	]
+}

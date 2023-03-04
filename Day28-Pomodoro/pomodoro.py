@@ -51,7 +51,8 @@ def count_down(count,):
         update_clock(count,)
         print(count)
     else:
-        checkmark['text'] += "✓"
+        if type_of_hours[clock_type] == "REST_MIN" or type_of_hours[clock_type] == LONG_BREAK_MIN:
+            checkmark['text'] += "✓"
         if clock_type == 7:
             count_down(LONG_BREAK_MIN, )
             clock_type = 0

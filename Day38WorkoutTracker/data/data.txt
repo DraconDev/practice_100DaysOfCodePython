@@ -1,0 +1,11 @@
+Exercise: Running
+Time: 20 kilometers
+Duration: Not provided
+
+To provide a dictionary format, it would look like this:
+
+{
+   "Exercise": "Running",
+   "Distance": "20 kilometers",
+   "Duration": "Not provided"
+}
